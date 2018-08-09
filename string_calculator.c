@@ -1,3 +1,5 @@
+//string calculator
+
 #include <stdio.h>
 #include <string>
 
